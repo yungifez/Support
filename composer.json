@@ -40,7 +40,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-develop": "11.x-dev"
+            "dev-develop": "12.x-dev"
         }
     },
     "config": {
